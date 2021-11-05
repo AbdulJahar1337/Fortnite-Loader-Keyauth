@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\atlcore.h(659,2): warning C4191: 'reinterpret_cast': unsafe conversion from 'FARPROC' to 'BOOL (__cdecl *)(DWORD)'
+          Calling this function through the result pointer may cause your program to fail
+C:\Users\found\Desktop\keyauth-loader-main (1)\keyauth-loader-main\main.cpp(105,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
+C:\Users\found\Desktop\keyauth-loader-main (1)\keyauth-loader-main\main.cpp(221,10): warning C4102: 'mainmenu': unreferenced label
+  Generating code
+  222 of 2474 functions ( 9.0%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    102 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\found\Desktop\keyauth-loader-main (1)\keyauth-loader-main\x64\Release\loader.exe
